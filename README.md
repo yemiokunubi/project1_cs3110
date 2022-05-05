@@ -1,6 +1,6 @@
 # project1_cs3110
 
-User enters the value. Program will let you know if the input passes or fails according to the grammar ruled and then convert to floating point
+User enters the value. Using a DFA the program will let you know if the input passes or fails according to the grammar rules and then convert to floating point
 
 Sample correct input:
 
